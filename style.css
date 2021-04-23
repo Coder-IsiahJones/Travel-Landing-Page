@@ -189,3 +189,18 @@
     font-size: 2em;
   }
 }
+
+@media (max-width: 375px) {
+  .showcase,
+  .showcase header {
+    padding: 30px;
+  }
+
+  .text h2 {
+    font-size: 2em;
+  }
+
+  .text h3 {
+    font-size: 1em;
+  }
+}
